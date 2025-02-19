@@ -73,12 +73,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "JavaScript",
+        // title: "JavaScript",
         logo: {
-          alt: "JavaScript Logo",
+          alt: "Logo",
           src: "/img/logo.png",
         },
         items: [
@@ -89,13 +87,8 @@ const config = {
           //   label: "About VS System",
           // },
           {
-            to: "/docs/intro",
-            label: "About VS System",
-            position: "left",
-          },
-          {
-            to: "/docs/category/github",
-            label: "Github",
+            to: "/docs/category/js-documentations",
+            label: "Javascript",
             position: "left",
           },
           {
@@ -118,10 +111,10 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Github",
+            title: "Javascript",
             items: [
               {
-                label: "Github",
+                label: "Javascript",
                 to: "/docs/category/github",
               },
             ],
@@ -157,7 +150,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Version Control Github tech docs. Built with Docusaurus`,
+        copyright: `Copyright © ${new Date().getFullYear()} JavaScript tech docs. Built with Docusaurus`,
       },
       prism: {
         theme: prismThemes.github,

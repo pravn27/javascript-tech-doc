@@ -18,9 +18,9 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <Link
           className="button button--secondary button--lg"
-          to="/docs/category/github"
+          to="/docs/category/js-documentations"
         >
-          Github
+          Javascript
         </Link>
       </div>
     </header>
@@ -32,17 +32,17 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} tech docs`}
-      description="Everything about version controls, its reference links & technical documentations"
+      description="Everything about JavaScript, its reference links & technical documentations"
     >
       <HomepageHeader />
-      <main>
+      {/* <main>
         <div style={{ marginTop: "20px" }}>
           <Heading as="h2" className="text--center">
-            Why Version Control Systems are Essential in Software Development ?
+            Why JavaScript are Essential in Software Development ?
           </Heading>
           <HomepageFeatures />
         </div>
-      </main>
+      </main> */}
     </Layout>
   );
 }
