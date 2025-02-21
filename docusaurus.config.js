@@ -77,7 +77,7 @@ const config = {
         // title: "JavaScript",
         logo: {
           alt: "Logo",
-          src: "/img/logo.png",
+          src: "/img/logo.svg",
         },
         items: [
           // {

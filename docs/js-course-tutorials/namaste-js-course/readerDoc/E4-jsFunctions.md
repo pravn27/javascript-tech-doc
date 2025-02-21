@@ -1,4 +1,8 @@
-## How functions work in JS ❤️ & Variable Environment
+---
+sidebar_position: 4
+---
+
+# E4 - How functions work in JS ❤️ & Variable Environment
 
 - What happens when run below the piece of JS code and how function invocation/calling will handle behind the scene, suppose if same variable name defined, used in multiple functions, how it will handle.
 

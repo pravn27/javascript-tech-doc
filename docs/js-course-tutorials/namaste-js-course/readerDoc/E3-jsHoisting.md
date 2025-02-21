@@ -1,6 +1,10 @@
-## Hoisting in JavaScript 🔥(variables & functions)
+---
+sidebar_position: 3
+---
 
-> Answer in Memory creation phase & Code execution phase
+# E3 - Hoisting in JavaScript 🔥(variables & functions)
+
+- Answer in Memory creation phase & Code execution phase
 
 - What happens when run below the piece of JS code ?
 
