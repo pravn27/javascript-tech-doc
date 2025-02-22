@@ -1,4 +1,8 @@
-## Closures in JS 🔥
+---
+sidebar_position: 10
+---
+
+# E10 - Closures in JS 🔥
 
 - What is **<mark>Block in Javascript</mark>** ?
 

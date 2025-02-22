@@ -1,4 +1,8 @@
-## undefined vs not defined in JS 🤔
+---
+sidebar_position: 6
+---
+
+# E6 - undefined vs not defined in JS 🤔
 
 - **undefined** is very special keyword in JS language
 

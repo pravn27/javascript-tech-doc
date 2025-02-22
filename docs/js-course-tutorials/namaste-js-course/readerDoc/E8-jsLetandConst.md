@@ -1,4 +1,8 @@
-## let & const in JS 🔥Temporal Dead Zone
+---
+sidebar_position: 8
+---
+
+# E8 - let & const in JS 🔥Temporal Dead Zone
 
 - Check below
   - What is **<mark>Temporal Dead Zone</mark>** ?

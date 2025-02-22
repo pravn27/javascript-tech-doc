@@ -1,4 +1,8 @@
-## BLOCK SCOPE & Shadowing in JS 🔥
+---
+sidebar_position: 9
+---
+
+# E9 - BLOCK SCOPE & Shadowing in JS 🔥
 
 - What is **<mark>Block in Javascript</mark>** ?
 

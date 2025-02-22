@@ -1,4 +1,8 @@
-## The Scope Chain, 🔥Scope & Lexical Environment
+---
+sidebar_position: 7
+---
+
+# E7 - The Scope Chain, 🔥Scope & Lexical Environment
 
 - Scope in javascript directly related to Lexical Environment
 
