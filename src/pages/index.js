@@ -1,5 +1,6 @@
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
+import { Redirect } from "@docusaurus/router";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
@@ -27,22 +28,27 @@ function HomepageHeader() {
   );
 }
 
+// export default function Home() {
+//   const { siteConfig } = useDocusaurusContext();
+//   return (
+//     <Layout
+//       title={`${siteConfig.title} tech docs`}
+//       description="Everything about JavaScript, its reference links & technical documentations"
+//     >
+//       <HomepageHeader />
+//       {/* <main>
+//         <div style={{ marginTop: "20px" }}>
+//           <Heading as="h2" className="text--center">
+//             Why JavaScript are Essential in Software Development ?
+//           </Heading>
+//           <HomepageFeatures />
+//         </div>
+//       </main> */}
+//     </Layout>
+//   );
+// }
+
 export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
-  return (
-    <Layout
-      title={`${siteConfig.title} tech docs`}
-      description="Everything about JavaScript, its reference links & technical documentations"
-    >
-      <HomepageHeader />
-      {/* <main>
-        <div style={{ marginTop: "20px" }}>
-          <Heading as="h2" className="text--center">
-            Why JavaScript are Essential in Software Development ?
-          </Heading>
-          <HomepageFeatures />
-        </div>
-      </main> */}
-    </Layout>
-  );
+  // make default landing page as docs
+  return <Redirect to="/javascript-tech-doc/docs/category/js-documentations" />;
 }

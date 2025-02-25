@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: "Javascript",
-                to: "/docs/category/github",
+                to: "/docs/category/js-documentations",
               },
             ],
           },
