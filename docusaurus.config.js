@@ -45,7 +45,6 @@ const config = {
       ({
         docs: {
           sidebarPath: "./sidebars.js",
-          // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/pravn27/javascript-tech-doc/tree/master",
         },
@@ -55,7 +54,6 @@ const config = {
             type: ["rss", "atom"],
             xslt: true,
           },
-          // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/pravn27/javascript-tech-doc/tree/master",
           // Useful options to enforce blogging best practices
