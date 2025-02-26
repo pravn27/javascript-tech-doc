@@ -132,23 +132,6 @@ const config = {
               },
             ],
           },
-          {
-            title: "More",
-            items: [
-              // {
-              //   label: "Blog",
-              //   to: "/blog",
-              // },
-              {
-                label: "GitHub",
-                href: "https://github.com/pravn27",
-              },
-              {
-                label: "LinkedIn",
-                href: "https://www.linkedin.com/in/praveen-s-157b365a/",
-              },
-            ],
-          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} JavaScript tech docs. Built with Docusaurus`,
       },

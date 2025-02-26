@@ -2,6 +2,7 @@
   "name": "javascript-tech-doc",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://github.com/pravn27/javascript-tech-doc",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
