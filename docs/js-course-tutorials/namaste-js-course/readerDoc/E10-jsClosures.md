@@ -4,6 +4,10 @@ sidebar_position: 10
 
 # E10 - Closures in JS 🔥
 
+> Closures in JavaScript is the most important topic for interviews. Even many senior frontend developers don't understand this concept properly. This video will clear all your doubts about closures in js and you will never have to find any other tutorial after this to understand function Closure and Garbage collection. 🔥
+
+> The only request is to watch this Episode of Namaste JavaScript with full attention. 🙏
+
 - What is **<mark>Block in Javascript</mark>** ?
 
   - Block and Scope are different things

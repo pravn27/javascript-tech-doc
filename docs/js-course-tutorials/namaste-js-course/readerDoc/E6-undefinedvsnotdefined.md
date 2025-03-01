@@ -4,6 +4,10 @@ sidebar_position: 6
 
 # E6 - undefined vs not defined in JS 🤔
 
+> JS is a loosely typed language (weakly typed language). This video covers an in-depth analysis of the undefined keyword and mistakes you should avoid while using this keyword. It is a special keyword in JS and it acts as a placeholder for variables until they are assigned any value in them.
+
+> Understand the difference between undefined and not defined in JS. Many developers assume that undefined is exactly the same as not defined, but that's not true. undefined is a value in JavaScript and in fact, it also takes up memory space. So watch this video to understand everything in deep.
+
 - **undefined** is very special keyword in JS language
 
 - Run below JS code to understand undefined

@@ -4,6 +4,10 @@ sidebar_position: 7
 
 # E7 - The Scope Chain, 🔥Scope & Lexical Environment
 
+> Diving deep into Scope, Lexical Environment, and The Scope Chain in JavaScript with a lot of code examples and visuals. This is a HOT interview topic and this video cover everything that happens under the hood. The video is a little long but I REQUEST YOU to watch it fully, this concept will help us in later videos. 🙏
+
+> Along with Code Examples, I've shown all these concepts visually so that it helps you better understand. And not only these, but I also covered a proper demo of Scope and The Scope chain in Browser. That's amazing, do watch it. You'll definitely fall in love with The Scope Chain in JS. ❤️
+
 - Scope in javascript directly related to Lexical Environment
 
 - Run below code and check the output

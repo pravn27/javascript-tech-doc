@@ -4,6 +4,10 @@ sidebar_position: 9
 
 # E9 - BLOCK SCOPE & Shadowing in JS 🔥
 
+> Let & const Block Scope in-depth tutorial covers what is a Block, Scope, and Block Scope in JavaScript. With live code examples and detailed explanations, we also will see what is Shadowing in JavaScript. We also talk about Illegal Shadowing and how different variable declarations using var, let and const behave differently when initialized in the Block Scope.
+
+> Block Scope has a lexical behavior and also follows rules of the Lexical Scope chain. This video covers everything that happens under the hood. The video is a little long but I REQUEST YOU to watch it fully, this concept will help us in later videos. 🙏
+
 - What is **<mark>Block in Javascript</mark>** ?
 
   - Block and Scope are different things

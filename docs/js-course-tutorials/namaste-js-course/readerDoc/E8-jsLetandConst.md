@@ -4,6 +4,10 @@ sidebar_position: 8
 
 # E8 - let & const in JS 🔥Temporal Dead Zone
 
+> let & const in JavaScript behave differently when they are Hoisted. Understanding the difference between var, let and const in JS will help you write better code. const and let are in a Temporal Dead Zone until they are initialized some value. You might encounter SyntaxError, TypeError or ReferenceError while using them in your code.
+
+> This JavaScript tutorial video covers everything in depth about how let and const are hoisted and how let in js is different from var and const in JS. We will also see what happens behind the scenes in the browser when you use them in code. Another exciting part of the video is the explanation of the difference between Syntax Error, Reference Error, and Type Error in JavaScript.
+
 - Check below
   - What is **<mark>Temporal Dead Zone</mark>** ?
   - **<mark>Are let & const declarations are hoisted in Javascript </mark>**?

@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # E3 - Hoisting in JavaScript 🔥(variables & functions)
 
+> Hoisting as a core concept relies on the way how Execution Context is created. In the first phase i.e. the Memory Allocation Phase all the variables and functions are allocated memory, even before any code is executed. All the variables are assigned undefined at this point in time in the local memory.
+
 - Answer in Memory creation phase & Code execution phase
 
 - What happens when run below the piece of JS code ?

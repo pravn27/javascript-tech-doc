@@ -4,6 +4,10 @@ sidebar_position: 5
 
 # E5 - SHORTEST JS Program 🔥window & this keyword
 
+> Let's check out the Shortest Program in JavaScript and more about the window and this keyword. Understand how the Global Execution Context is created, global object, and this keyword is created in JS. We'll also talk about what happens under the hood of the JS Engine when you execute this shortest code in the browser.
+
+> JavaScript Engine creates a global object whenever you run any JS code. In the case of browsers, this global object is known as window, check out the video to see the demo of this global object created by the browser.
+
 - Shortest JS program is empty JS file
 
 - What happens when run Empty JS file in the browser
